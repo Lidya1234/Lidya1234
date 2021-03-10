@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Lidya1234/Lidya1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lidya94gher@gmail.com.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: kkkk.
--->
+
+## How to reach you
+********************
+-[Email](mailto:lidya94gher@gmail.com)
+-[twitter](https://twitter.com/Lidya42676629)
